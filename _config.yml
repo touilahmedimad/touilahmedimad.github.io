@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Blog
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Blog
 
 description: Stylish Jekyll Theme
 author:
@@ -25,7 +25,7 @@ author:
   pinterest: asd123
   linkedin: asd123
   bio: Laravel Developer
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: ebfb9f435b6c03bb48c41da53c139a85
 
 rss_path: feed.xml
 categories_path: categories.html
